@@ -52,8 +52,8 @@ Untuk menjalankan bot ini di server Anda (direkomendasikan Ubuntu/Debian):
 
 ### 1. **Clone Repositori**
 ```bash
-git clone [https://github.com/ifauzeee/zee-downloader-bot.git](https://github.com/ifauzeee/zee-downloader-bot.git)
-cd zee-downloader-bot
+git clone https://github.com/ifauzeee/multi-downloader-bot.git
+cd multi-downloader-bot
 ```
 
 ### 2. **Instal Kebutuhan**
