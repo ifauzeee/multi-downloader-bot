@@ -1,0 +1,28 @@
+# --- FILE RAHASIA ---
+# Variabel lingkungan yang berisi Token Bot. SANGAT RAHASIA!
+.env
+
+# File Cookie yang berisi sesi login. RAHASIA!
+# Anda bisa menggunakan pola umum atau nama spesifik.
+*.txt
+!requirements.txt
+
+# --- FILE & FOLDER SEMENTARA ---
+# Folder untuk menyimpan unduhan sementara
+/downloads/
+
+# File cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+env/
+*.env
+
+# File-file yang dibuat oleh IDE/editor
+.idea/
+.vscode/
