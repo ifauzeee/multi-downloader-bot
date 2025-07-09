@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ifauzeee/multi-downloader-bot/main/assets/logo.png" alt="Multi-Downloader Bot Logo" width="150"/>
   <h1>Multi-Downloader Bot</h1>
   <p>
     <b>Bot Telegram serbaguna untuk mengunduh media dari berbagai platform sosial media langsung ke chat Anda.</b>
@@ -19,6 +18,12 @@
 **Multi-Downloader Bot** adalah sebuah bot Telegram yang dirancang untuk menjadi asisten andal dalam mengunduh konten media dari internet. Dibuat dengan Python, bot ini mampu memproses link dari berbagai platform populer dan mengirimkan hasilnya langsung ke pengguna, baik dalam chat pribadi maupun grup.
 
 Bot ini menggunakan `yt-dlp` dan `gallery-dl`, dua *powerful engine* di belakang layar, untuk memastikan kompatibilitas yang luas dan keandalan dalam mengunduh.
+
+> **Ingin mencoba bot ini?**
+>
+> Anda bisa bergabung ke grup diskusi dan mencoba botnya langsung di sana:
+>
+> **[➡️ Join Ryzeeen Universe](https://t.me/RyzeeenUniverse)**
 
 ---
 
@@ -133,5 +138,5 @@ Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanj
 ---
 
 <div align="center">
-  Dibuat dengan ❤️ oleh Fauzi
+  © All rights reserved - Muhammad Ibnu Fauzi
 </div>
